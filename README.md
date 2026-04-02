@@ -56,3 +56,32 @@ User-friendly visualizations
 Identified key patterns and trends in the dataset
 Derived actionable insights for decision-making
 Improved understanding of data through visual storytelling
+
+▶️ How to Run
+
+Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+Install required libraries
+pip install pandas numpy matplotlib seaborn
+
+Run the Python scripts / Jupyter Notebook
+jupyter notebook
+
+Set up database
+Import dataset into MySQL 
+
+Run SQL scripts provided in /sql folder
+
+Open Power BI Dashboard
+Load .pbix file in Power BI Desktop
+
+View Presentation
+Open Gamma PPT (link or file)
+
+📬 Contact
+If you have any questions or feedback, feel free to connect!
+
+Name: Himani
+LinkedIn: linkedin.com/in/himani-s-6326311b5
+Email: himanisaini2601@gmail.com

@@ -59,24 +59,23 @@ Improved understanding of data through visual storytelling
 
 ▶️ How to Run
 
-Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-Install required libraries
+2. Install required libraries
 pip install pandas numpy matplotlib seaborn
 
-Run the Python scripts / Jupyter Notebook
+3. Run the Python scripts / Jupyter Notebook
 jupyter notebook
 
-Set up database
+4. Set up database
 Import dataset into MySQL 
-
 Run SQL scripts provided in /sql folder
 
-Open Power BI Dashboard
+5. Open Power BI Dashboard
 Load .pbix file in Power BI Desktop
 
-View Presentation
+6. View Presentation
 Open Gamma PPT (link or file)
 
 📬 Contact

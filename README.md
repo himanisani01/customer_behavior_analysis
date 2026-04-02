@@ -83,5 +83,7 @@ Open Gamma PPT (link or file)
 If you have any questions or feedback, feel free to connect!
 
 Name: Himani
+
 LinkedIn: linkedin.com/in/himani-s-6326311b5
+
 Email: himanisaini2601@gmail.com

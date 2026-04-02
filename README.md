@@ -9,12 +9,14 @@ The goal of this project is to extract meaningful insights from raw data and pre
 The dataset used in this project contains structured data relevant to the analysis.
 It includes multiple features such as numerical and categorical variables.
 Source: Kaggle
+
 🛠️ Tools & Technologies
 Python – Data loading, cleaning, and EDA
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
 SQL (MySQL) – Data querying and analysis
 Power BI – Interactive dashboard creation
 Gamma – Presentation (PPT) creation
+
 🔄 Project Steps
 1. Data Loading
 Imported dataset using Python (Pandas)
@@ -42,6 +44,7 @@ Visual insights for decision-making
 6. Reporting & Presentation
 Created a structured report summarizing findings
 Designed a presentation using Gamma to communicate insights effectively
+
 📊 Dashboard
 Interactive Power BI dashboard showcasing:
 Key metrics and trends
